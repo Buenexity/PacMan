@@ -1,0 +1,7 @@
+build
+src
+main.exe
+main.o
+object.o
+pacman.o
+.vscode
